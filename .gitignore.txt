@@ -1,0 +1,16 @@
+# Arquivos do Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.aps
+*.opendb
+*.pdb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.iobj
+*.ipdb
